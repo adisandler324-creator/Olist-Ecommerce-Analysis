@@ -11,6 +11,7 @@
 ## 🔗 Project Access
 * **[📥 Download Full .PBIX File (via Google Drive)](https://drive.google.com/file/d/1jkYWEAigoG8AcR6jo1AxUshDb4pW3Jgk/view?usp=sharing)**
 * **[📜 Explore SQL Queries](SQL/)**
+* **[📄 View Full Report (PDF Export)](media/Olist_Analysis_Report.pdf)**
 
 ---
 
